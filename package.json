@@ -1,0 +1,14 @@
+{
+  "name": "code-atlas",
+  "version": "1.0.0",
+  "description": "Visualize your codebase with interactive graphs.",
+  "main": "app.js",
+  "scripts": {
+    "start": "python app.py"
+  },
+  "dependencies": {
+    "d3": "^7.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
